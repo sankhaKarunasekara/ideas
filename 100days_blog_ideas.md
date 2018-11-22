@@ -1,4 +1,4 @@
-1) how to set up node server to run simple project
+1) how to set up node server to run simple project all 4 methods
 2) svn problem with svg user names
 3) Interent speed widget I created
 4) MPC report viewer
