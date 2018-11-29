@@ -7,3 +7,4 @@
    * [npm vs bower vs browerify gulp grant webpack](https://stackoverflow.com/questions/35062852/npm-vs-bower-vs-browserify-vs-gulp-vs-grunt-vs-webpack)
 6) Webpack how to set up with simple configurations
 7) simple markdown language cheatsheet
+8) how to compare two projects in eclipse. using compare with eachother option. 
